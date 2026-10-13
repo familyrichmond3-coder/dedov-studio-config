@@ -1,0 +1,23 @@
+{
+  "announcements": [],
+  "games": [
+    {
+      "id": "FarmGame",
+      "name": "Farm Defense",
+      "exe": "FarmGame.exe",
+      "description": "Защищай ферму.",
+      "enabled": true,
+      "disabledUntil": null,
+      "announcement": ""
+    },
+    {
+      "id": "TowerDef",
+      "name": "Tower Defense",
+      "exe": "TowerDef.exe",
+      "description": "Защита башнями.",
+      "enabled": true,
+      "disabledUntil": null,
+      "announcement": ""
+    }
+  ]
+}
